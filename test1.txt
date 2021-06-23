@@ -1,1 +1,2 @@
 this is a simple text file for the testing purpose, I hope to understand git properly,updating
+Trying to find something new and challenging
